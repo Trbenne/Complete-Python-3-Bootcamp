@@ -1,3 +1,5 @@
+Note From Trystan: These are the files for an online Python course.
+
 # Complete-Python-3-Bootcamp
 Course Files for Complete Python 3 Bootcamp Course on Udemy
 
